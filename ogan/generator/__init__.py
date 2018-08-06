@@ -1,0 +1,1 @@
+from ogan.generator.lstm_generator import LSTM_Generator

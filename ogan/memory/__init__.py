@@ -1,0 +1,1 @@
+from ogan.memory.lstm_memory import LSTM_Memory
